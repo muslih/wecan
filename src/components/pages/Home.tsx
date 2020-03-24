@@ -14,10 +14,6 @@ const Home = () => (
       <Link to="/wecan/multiply">Multiply X and Y</Link>
       <Link to="/wecan/prime">Prime Sequence</Link>
       <Link to="/wecan/fibonacci">Fibonacci Sequence</Link>
-      <a href="./wecan/sum">SUM X and Y</a>
-      <a href="./wecan/multiply">Multiply X and Y</a>
-      <a href="./wecan/prime">Prime Sequence</a>
-      <a href="./wecan/fibonacci">Fibonacci Sequence</a>
     </div>
   </Container>
 );
